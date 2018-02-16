@@ -1,0 +1,19 @@
+package Lesson3;
+
+public class Annimal {
+	String name;
+	int age;
+	
+	public Annimal(String name, int age) {
+		super();
+		this.name = name;
+		this.age = age;
+	}
+	
+	@Override
+	public String toString() {
+		return "Annimal [name=" + name + ", age=" + age + "]";
+	}
+	
+	
+}

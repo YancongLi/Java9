@@ -1,0 +1,14 @@
+package Lesson3;
+
+import java.util.HashSet;
+
+public class Application {
+
+	public static void main(String[] args) {
+		HashSet<Integer> values = new HashSet<>();
+		
+		
+
+	}
+
+}

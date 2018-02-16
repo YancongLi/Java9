@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="someotherpackage.ExampleClass"/>
+<fullyQualifiedTypeName name="java_basics.MyUtils"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.dom.PSVIDOMImplementationImpl"/>
+<fullyQualifiedTypeName name="object_oriented_programming.Human"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
+<fullyQualifiedTypeName name="object_oriented_programming.Animal"/>
+<fullyQualifiedTypeName name="object_oriented_programming.Flyable"/>
+<fullyQualifiedTypeName name="object_oriented_programming.Bird"/>
+<fullyQualifiedTypeName name="practice.strings.StringPractice"/>
+<fullyQualifiedTypeName name="sun.font.TrueTypeFont"/>
+<fullyQualifiedTypeName name="car_dealership.Employee"/>
+<fullyQualifiedTypeName name="car_dealership.Customer"/>
+<fullyQualifiedTypeName name="car_dealership.Vehicle"/>
+<fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.sun.java.util.jar.pack.Package.File"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="sun.util.logging.resources.logging"/>
+<fullyQualifiedTypeName name="MyFileUtils"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="MyFileUtils.FooRuntimeException"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+<fullyQualifiedTypeName name="com.peter.learningfilereader.MyClass"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.schemagen.xmlschema.Annotation"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="Lesson2.Vehicle"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.PUBLIC_MEMBER"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.sun.corba.se.spi.orbutil.proxy.LinkedInvocationHandler"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="Lesson3.Annimal"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="Lesson3.Animal"/>
+</qualifiedTypeNameHistroy>
