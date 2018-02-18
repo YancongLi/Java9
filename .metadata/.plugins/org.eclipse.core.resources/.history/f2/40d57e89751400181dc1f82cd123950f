@@ -1,0 +1,21 @@
+package lesson4;
+
+import java.util.ArrayList;
+
+public class Application {
+
+	public static void main(String[] args) {
+		
+		ArrayList<Integer> list1 = new ArrayList<>();
+		list1.add(12);
+		list1.add(43);
+		list1.add(15);
+		list1.add(67);
+		list1.add(43);
+		
+		ArrayList<Integer> newList = new ArrayList<>();
+		newList.add(10);
+
+	}
+
+}

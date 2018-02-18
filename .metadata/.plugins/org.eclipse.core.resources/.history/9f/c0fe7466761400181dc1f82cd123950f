@@ -1,0 +1,32 @@
+package lesson4;
+
+import java.util.ArrayList;
+
+public class Application {
+
+	public static void main(String[] args) {
+		
+		ArrayList<Integer> list1 = new ArrayList<>();
+		list1.add(12);
+		list1.add(43);
+		list1.add(15);
+		list1.add(67);
+		list1.add(43);
+		
+		ArrayList<Integer> newList = new ArrayList<>();
+		newList.add(10);
+		newList.add(67);
+		newList.add(15);
+		
+		list1.addAll(newList);//merge newList into list1
+		System.out.println(list1);
+		
+		list1.removeAll(newList);//remove elements appeared in newList from list1
+		System.out.println(list1);
+		
+		list1.clear();
+		System.out.println(list1);
+
+	}
+
+}
