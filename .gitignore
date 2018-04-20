@@ -40,3 +40,5 @@ collections-and-generics/.DS_Store
 .DS_Store
 LearnConcurrencyUtils/.classpath
 LearnConcurrencyUtils/.project
+LearnJDBC/.classpath
+LearnJDBC/.project
