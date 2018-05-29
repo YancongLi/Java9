@@ -12,7 +12,7 @@ public class JDBCDemo {
 		int rowsAffected = 0;
 		try {
 			// Establish Connection Object
-			Connection conn = DriverManager.getConnection(url, "root", "mysqlpassword");
+			Connection conn = DriverManager.getConnection(url, "root", "password");
 
 			// Create a statement object to send to the database
 			Statement statement = conn.createStatement();
